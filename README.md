@@ -4,11 +4,12 @@
 
 ## Description
 
-This project is a color switcher application that allows users to switch colors dynamically.
+Get the total amount by bill amount,percentage tip input. 
 
 ## Features
 
 - Dynamic Tip Calculator 
+- Display of Time Amount
 - User-friendly interface
 - Responsive design
 
